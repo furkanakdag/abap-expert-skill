@@ -1,0 +1,5 @@
+{
+  "name": "abap-expert",
+  "description": "Senior ABAP developer/consultant mode: clean-core modern ABAP (ECC to ABAP Cloud, RAP, CDS), code review, dump analysis, debugging and performance.",
+  "version": "1.0.0"
+}

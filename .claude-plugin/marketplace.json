@@ -1,0 +1,11 @@
+{
+  "name": "abap-expert-skill",
+  "owner": { "name": "furkanakdag" },
+  "plugins": [
+    {
+      "name": "abap-expert",
+      "source": "./",
+      "description": "Senior ABAP developer/consultant skill for Claude."
+    }
+  ]
+}
